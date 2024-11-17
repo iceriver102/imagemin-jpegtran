@@ -42,7 +42,7 @@
   ],
   "dependencies": {
     "exec-buffer": "^3.0.0",
-    "is-jpg": "^3.0.0",
+    "is-jpg": "^2.0.0",
     "jpegtran-bin": "git+https://github.com/iceriver102/jpegtran-bin.git"
   },
   "devDependencies": {
